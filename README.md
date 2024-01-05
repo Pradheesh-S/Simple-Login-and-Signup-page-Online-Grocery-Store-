@@ -1,4 +1,5 @@
 ### If there is an error shown, kindly come to the "package.json" file and save it once, then the code will run properly.
+### I have used Axios in the project, so kindly type the command "npx json.server --watch db.json --port 3001" after starting the project with "npm start" so that you can register yourself on the website with the required data and login with the user-given data.
 
 # Getting Started with Create React App
 
