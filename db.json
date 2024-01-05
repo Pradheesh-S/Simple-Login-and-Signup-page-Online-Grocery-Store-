@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "username": "Pradheesh",
+      "email": "pradheesh@gmail.com",
+      "password": "12345",
+      "dob": "19.05.2005",
+      "phoneNumber": "7448776551",
+      "id": 1
+    },
+    {
+      "username": "Pradheesh",
+      "password": "12345",
+      "id": 2
+    }
+  ]
+}
